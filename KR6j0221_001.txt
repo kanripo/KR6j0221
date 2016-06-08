@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:13.875137
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:36
 #+TITLE: 金剛光焰止風雨陀羅尼經
 #+PROPERTY: CBETA_ID T19n1027a
 #+PROPERTY: ID KR6j0221
